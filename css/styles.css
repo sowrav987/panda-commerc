@@ -1,0 +1,13 @@
+.info-backround{
+    background-color: beige;
+}
+.categories img{
+    width: 100px;
+}
+.panda-buy-now{
+    color: white;
+    border-radius: 8px;
+    padding:9px 25px ;
+    border: none;
+    background-image: #ff468f;
+}
